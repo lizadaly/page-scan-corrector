@@ -26,7 +26,11 @@ This will write `outdir/input.png` with the result.
 ## Examples
 
 ### Input file
-![examples/in.jpg]
+![Input file](examples/in.jpg)
 
 ### Output file
-![examples/out.jpg]
+![Output file](examples/out.jpg)
+
+## References
+
+This was originally forked from [doc2text](https://github.com/jlsutherland/doc2text).
