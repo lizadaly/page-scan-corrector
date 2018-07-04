@@ -14,8 +14,6 @@ pipenv install
 setup.py install --editable .
 ```
 
-Note that this depends on OpenCV, which may be tricky to install on a given platform.
-
 ## Running from the command-line
 ```
 process_image input.png outdir
